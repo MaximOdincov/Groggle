@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="enter_your_note">Enter your Note</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="save">Save</string>
+    <string name="groggle">Groggle</string>
+    <!-- API Key для exchangerate.host - не забудьте заменить на свой ключ -->
+    <string name="exchangerate_api_key">your_api_key_here</string>
+</resources>
