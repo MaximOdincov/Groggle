@@ -19,9 +19,8 @@ Groggle is an Android application for managing your shopping list with multi-cur
 - Instant application of settings
 - Integration with exchangerate.host API (API key supported)
 
-## Screenshots
-
-> _Add your app screenshots here_
+## Video
+https://github.com/user-attachments/assets/038d3760-aeeb-4eea-9537-d6cd1c015e21
 
 ## Technologies Used
 
